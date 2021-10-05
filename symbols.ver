@@ -1,0 +1,10 @@
+{ global:
+JNI_OnLoad;
+JNI_OnUnload;
+Java_com_pubgm_Auth_linkURL;
+Java_com_pubgm_Auth_Check;
+Java_com_pubgm_MainActivity_name;
+Java_com_pubgm_MainActivity_nameG;
+Java_com_pubgm_Floating_hehe;
+Java_com_pubgm_Floating_hehehe;
+local: *; };
